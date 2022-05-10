@@ -2,6 +2,10 @@
 
 ##1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
+import math
+from pickle import TRUE
+
+
 a = 5
 print(a)
 
@@ -13,15 +17,40 @@ print(type(x))
 
 ##3) Imprimir el tipo de dato de la variable creada en el punto 1
 
+print(type(a))
+
 ##4) Crear una variable que contenga tu nombre
+
+variable_nombre = "Soy Carla"
+print(variable_nombre)
 
 ##5) Crear una variable que contenga un número complejo
 
+complejo = 5j
+print(complejo)
+
+
 ##6) Mostrar el tipo de dato de la variable crada en el punto 5
+
+print(type(complejo))
+
 
 ##7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
 
+pi = 3.1416
+
 ##8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
+
+#No, no se trata de lo mismo, 'true' es la palabra y True es el booleano
+
+p = 'True'
+a = True
+print(p)
+print(a)
+print(type(p))
+print(type(a))
+
+
 
 ##9) Imprimir el tipo de dato correspondientes a las variables creadas en el punto 9
 
