@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01 - Introducción a la Programación"
+    "\\01 - Introducción a la Programación",
+    "\\01 - Introducción a la Programación\\.ipynb_checkpoints",
+    "\\03 - Flujos de Control"
   ],
-  "SelectedNode": "\\01 - Introducción a la Programación\\Practica.py",
   "PreviewInSolutionExplorer": false
 }
