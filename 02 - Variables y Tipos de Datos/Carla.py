@@ -47,18 +47,27 @@ p = 'True'
 a = True
 print(p)
 print(a)
-print(type(p))
-print(type(a))
-
 
 
 ##9) Imprimir el tipo de dato correspondientes a las variables creadas en el punto 9
 
+print(type(p))
+print(type(a))
+
 ##10) Asignar a una variable, la suma de un número entero y otro decimal
+
+suma = 5 + 5.2
+print(suma)
 
 ##11) Realizar una operación de suma de números complejos
 
+suma_complejos = 5j + 3j
+print(suma_complejos)
+
 ##12) Realizar una operación de suma de un número real y otro complejo
+
+suma_real_complejo = 5 + 3j
+print(suma_real_complejo)
 
 #13) Realizar una operación de multiplicación
 
